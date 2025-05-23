@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dipak703&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dipak703&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Dipak703/count.svg?"  />
+</div>
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipak703&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
